@@ -1,0 +1,1 @@
+Multivariate regression analysis of SF bike sharing data based on weather patterns. Final regressions created using Excel to showcase Excel skills. Bike sharing data taken from BigQuery database, weather data in attached CSV file.
